@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="89ac13fb-18b9-48ca-a13a-db6f597e724f" solutionId="89ac13fb-18b9-48ca-a13a-db6f597e724f" resetWebServer="false" name="Screenings" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d3c8c0a5-edf8-422f-b57e-34e9d64dbe1f" />
+  </features>
+</package>
